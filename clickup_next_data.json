@@ -1,0 +1,413 @@
+{
+  "props": {
+    "pageProps": {
+      "page": {
+        "slug": "/on-demand-demo",
+        "title": "ClickUp\u2122 Tutorial Videos for Beginners to Advanced Users",
+        "description": "Discover how ClickUp's all-in-one work hub helps teams collaborate seamlessly, save time, and maximize productivity.",
+        "canonical": "https://clickup.com/on-demand-demo",
+        "isNoIndex": false,
+        "heroEyebrow": "Explore ClickUp",
+        "heroTitle": "See ClickUp in action!",
+        "heroDescription": "Explore the complete solution for everything work, \nno signup or credit card required.",
+        "media": {
+          "internalName": "overview video 2",
+          "iframe": "<iframe src=\"https://www.youtube.com/embed/_3v1zR5pchM\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+          "cover": {
+            "contentType": "image/png",
+            "url": "https://images.ctfassets.net/w8fc6tgspyjz/5MPN5HlO0A08NZVMPWtSFa/54355110c3d244d8467ca908c6b573c8/overview_screen_shot.png",
+            "fileName": "overview screen shot.png",
+            "size": 1703216,
+            "title": "overview2 screen shot",
+            "dimensions": {
+              "width": 3840,
+              "height": 2160
+            },
+            "__metadata": {
+              "id": "5MPN5HlO0A08NZVMPWtSFa",
+              "source": "sourcebit-source-contentful",
+              "modelName": "Asset",
+              "projectId": "w8fc6tgspyjz",
+              "projectEnvironment": "master",
+              "tags": [],
+              "createdAt": "2024-04-22T19:44:15.964Z",
+              "updatedAt": "2024-12-12T22:21:03.379Z"
+            }
+          },
+          "__modelName": "CuIframe",
+          "__metadata": {
+            "id": "3fUsgE4ppXpU5TzL0osDIG",
+            "source": "sourcebit-source-contentful",
+            "modelName": "CuIframe",
+            "originalModelName": "CuIframe",
+            "projectId": "w8fc6tgspyjz",
+            "projectEnvironment": "master",
+            "tags": [],
+            "createdAt": "2024-04-22T19:44:16.234Z",
+            "updatedAt": "2024-12-12T22:21:03.519Z"
+          }
+        },
+        "heroDisplay": "1-column",
+        "heroMediaBorder": "grey",
+        "primaryButton": {
+          "children": "Get started today",
+          "action": "open signup form",
+          "__modelName": "CuActionButtonModal",
+          "__metadata": {
+            "id": "tQZmkPgfgnKt8NJEshdv9",
+            "source": "sourcebit-source-contentful",
+            "modelName": "CuActionButtonModal",
+            "originalModelName": "CuActionButtonModal",
+            "projectId": "w8fc6tgspyjz",
+            "projectEnvironment": "master",
+            "tags": [],
+            "createdAt": "2024-05-03T23:06:40.159Z",
+            "updatedAt": "2024-12-12T22:21:03.536Z"
+          }
+        },
+        "secondaryButton": {
+          "children": "Contact sales",
+          "action": "open contact sales form",
+          "__modelName": "CuActionButtonModal",
+          "__metadata": {
+            "id": "4iWoU1yxm64RpyyKJYaVUx",
+            "source": "sourcebit-source-contentful",
+            "modelName": "CuActionButtonModal",
+            "originalModelName": "CuActionButtonModal",
+            "projectId": "w8fc6tgspyjz",
+            "projectEnvironment": "master",
+            "tags": [],
+            "createdAt": "2024-05-03T23:06:37.063Z",
+            "updatedAt": "2024-12-12T22:21:03.565Z"
+          }
+        },
+        "hasReviews": true,
+        "hasLogos": true,
+        "hasLogosTitle": "Trusted by 3 million+ teams",
+        "content": [
+          {
+            "internalTitle": "Experience a day in the life with ClickUp.",
+            "cards": [
+              {
+                "internalTitle": "Teams - demo",
+                "media": {
+                  "image": {
+                    "contentType": "image/png",
+                    "url": "https://images.ctfassets.net/w8fc6tgspyjz/72ty5bTSsqvHiwdUwURF3v/847a59d4d19345614b5a60a06a4e1155/Team_member.png",
+                    "fileName": "Team member.png",
+                    "size": 383910,
+                    "title": "Team member.png",
+                    "dimensions": {
+                      "width": 592,
+                      "height": 418
+                    },
+                    "__metadata": {
+                      "id": "72ty5bTSsqvHiwdUwURF3v",
+                      "source": "sourcebit-source-contentful",
+                      "modelName": "Asset",
+                      "projectId": "w8fc6tgspyjz",
+                      "projectEnvironment": "master",
+                      "tags": [],
+                      "createdAt": "2023-03-15T17:29:50.202Z",
+                      "updatedAt": "2024-12-12T22:21:03.384Z"
+                    }
+                  },
+                  "__modelName": "CuImage",
+                  "__metadata": {
+                    "id": "4lvdeqasYwSjMNIzFgVMpk",
+                    "source": "sourcebit-source-contentful",
+                    "modelName": "CuImage",
+                    "originalModelName": "CuImage",
+                    "projectId": "w8fc6tgspyjz",
+                    "projectEnvironment": "master",
+                    "tags": [],
+                    "createdAt": "2024-05-03T23:06:37.110Z",
+                    "updatedAt": "2024-12-12T22:21:03.664Z"
+                  }
+                },
+                "title": {
+                  "title": "Teams - title demo",
+                  "markdown": "Teams",
+                  "__modelName": "CuMarkdown",
+                  "__metadata": {
+                    "id": "6dEEzNukPSvNMqeR7WdXmO",
+                    "source": "sourcebit-source-contentful",
+                    "modelName": "CuMarkdown",
+                    "originalModelName": "CuMarkdown",
+                    "projectId": "w8fc6tgspyjz",
+                    "projectEnvironment": "master",
+                    "tags": [],
+                    "createdAt": "2024-05-03T23:06:38.698Z",
+                    "updatedAt": "2024-12-12T22:21:03.680Z"
+                  }
+                },
+                "description": "Check out how ClickUp helps you easily prioritize work and ensure nothing falls through the cracks.",
+                "colorGradient": "white",
+                "isImageFirst": true,
+                "cardAlignment": "vertical",
+                "cardIsLink": "https://fast.wistia.net/embed/iframe/jth0yzgmu2",
+                "__modelName": "CuContentCard",
+                "__metadata": {
+                  "id": "5jqf6ruALJwK3tFhQM8Azg",
+                  "source": "sourcebit-source-contentful",
+                  "modelName": "CuContentCard",
+                  "originalModelName": "CuContentCard",
+                  "projectId": "w8fc6tgspyjz",
+                  "projectEnvironment": "master",
+                  "tags": [],
+                  "createdAt": "2024-05-03T23:06:38.129Z",
+                  "updatedAt": "2024-12-12T22:21:03.599Z"
+                }
+              },
+              {
+                "internalTitle": "Executives - demo card",
+                "media": {
+                  "internalName": "executives - demo card",
+                  "image": {
+                    "contentType": "image/png",
+                    "url": "https://images.ctfassets.net/w8fc6tgspyjz/21YqlT9fXtdJ77mRI9bYUD/b74c4a43b724c9f93c95de7809134ed9/Executives__1__1__1_.png",
+                    "fileName": "Executives (1) 1 (1).png",
+                    "size": 183847,
+                    "title": "Executives (1) 1",
+                    "dimensions": {
+                      "width": 674,
+                      "height": 476
+                    },
+                    "__metadata": {
+                      "id": "21YqlT9fXtdJ77mRI9bYUD",
+                      "source": "sourcebit-source-contentful",
+                      "modelName": "Asset",
+                      "projectId": "w8fc6tgspyjz",
+                      "projectEnvironment": "master",
+                      "tags": [],
+                      "createdAt": "2024-05-03T23:06:34.420Z",
+                      "updatedAt": "2024-12-12T22:21:03.387Z"
+                    }
+                  },
+                  "__modelName": "CuImage",
+                  "__metadata": {
+                    "id": "1MxEFnRvS23MMLn6Ru9qJh",
+                    "source": "sourcebit-source-contentful",
+                    "modelName": "CuImage",
+                    "originalModelName": "CuImage",
+                    "projectId": "w8fc6tgspyjz",
+                    "projectEnvironment": "master",
+                    "tags": [],
+                    "createdAt": "2024-05-03T23:06:34.822Z",
+                    "updatedAt": "2024-12-12T22:21:03.792Z"
+                  }
+                },
+                "title": {
+                  "title": "Executives - card title",
+                  "markdown": "Executives",
+                  "__modelName": "CuMarkdown",
+                  "__metadata": {
+                    "id": "5cBkgeKFARcgB8yOCuXzBf",
+                    "source": "sourcebit-source-contentful",
+                    "modelName": "CuMarkdown",
+                    "originalModelName": "CuMarkdown",
+                    "projectId": "w8fc6tgspyjz",
+                    "projectEnvironment": "master",
+                    "tags": [],
+                    "createdAt": "2024-05-03T23:06:37.533Z",
+                    "updatedAt": "2024-12-12T22:21:03.810Z"
+                  }
+                },
+                "description": "Discover how ClickUp gives you full visibility into the business and helps you quickly adapt to change.",
+                "colorGradient": "white",
+                "isImageFirst": true,
+                "cardAlignment": "vertical",
+                "cardIsLink": "https://fast.wistia.net/embed/iframe/5z329rev27",
+                "__modelName": "CuContentCard",
+                "__metadata": {
+                  "id": "5ujCVFwTiEN4pQ6WoEGYEN",
+                  "source": "sourcebit-source-contentful",
+                  "modelName": "CuContentCard",
+                  "originalModelName": "CuContentCard",
+                  "projectId": "w8fc6tgspyjz",
+                  "projectEnvironment": "master",
+                  "tags": [],
+                  "createdAt": "2024-05-03T23:06:38.265Z",
+                  "updatedAt": "2024-12-12T22:21:03.757Z"
+                }
+              },
+              {
+                "internalTitle": "Managers - demo card",
+                "media": {
+                  "internalName": "Managers.png",
+                  "image": {
+                    "contentType": "image/png",
+                    "url": "https://images.ctfassets.net/w8fc6tgspyjz/4vADs0mOc4eto8eNleSokp/51f1dad440347a0b5042633910eb18a5/Managers.png",
+                    "fileName": "Managers.png",
+                    "size": 414444,
+                    "title": "Managers.png",
+                    "dimensions": {
+                      "width": 592,
+                      "height": 418
+                    },
+                    "__metadata": {
+                      "id": "4vADs0mOc4eto8eNleSokp",
+                      "source": "sourcebit-source-contentful",
+                      "modelName": "Asset",
+                      "projectId": "w8fc6tgspyjz",
+                      "projectEnvironment": "master",
+                      "tags": [],
+                      "createdAt": "2023-03-15T17:30:32.497Z",
+                      "updatedAt": "2024-12-12T22:21:03.390Z"
+                    }
+                  },
+                  "__modelName": "CuImage",
+                  "__metadata": {
+                    "id": "52tFmjA7jZeVwfqaYTOxuP",
+                    "source": "sourcebit-source-contentful",
+                    "modelName": "CuImage",
+                    "originalModelName": "CuImage",
+                    "projectId": "w8fc6tgspyjz",
+                    "projectEnvironment": "master",
+                    "tags": [],
+                    "createdAt": "2024-12-12T22:08:52.022Z",
+                    "updatedAt": "2024-12-12T22:21:03.845Z"
+                  }
+                },
+                "title": {
+                  "title": "Managers - demo card title",
+                  "markdown": "Managers",
+                  "__modelName": "CuMarkdown",
+                  "__metadata": {
+                    "id": "1RfOaAk6lSDH5Pq3Ug4DYc",
+                    "source": "sourcebit-source-contentful",
+                    "modelName": "CuMarkdown",
+                    "originalModelName": "CuMarkdown",
+                    "projectId": "w8fc6tgspyjz",
+                    "projectEnvironment": "master",
+                    "tags": [],
+                    "createdAt": "2024-05-03T23:06:34.840Z",
+                    "updatedAt": "2024-12-12T22:21:03.868Z"
+                  }
+                },
+                "description": "See how ClickUp helps you boost collaboration across your team and manage resources more effectively.",
+                "colorGradient": "white",
+                "isImageFirst": true,
+                "cardAlignment": "vertical",
+                "cardIsLink": "https://fast.wistia.net/embed/iframe/n4wuxdu18b",
+                "__modelName": "CuContentCard",
+                "__metadata": {
+                  "id": "7x4z1nn0GI0mPBNY8ZQTfA",
+                  "source": "sourcebit-source-contentful",
+                  "modelName": "CuContentCard",
+                  "originalModelName": "CuContentCard",
+                  "projectId": "w8fc6tgspyjz",
+                  "projectEnvironment": "master",
+                  "tags": [],
+                  "createdAt": "2024-05-03T23:06:39.711Z",
+                  "updatedAt": "2024-12-12T22:21:03.828Z"
+                }
+              }
+            ],
+            "columnNumber": 3,
+            "sectionEyebrow": "Workflows",
+            "sectionTitle": "Experience a day in the life with ClickUp",
+            "sectionSubtext": "Learn how ClickUp can make your workday better, whether you're an individual contributor, senior executive, or anyone in between.",
+            "layout": "default",
+            "__modelName": "CuContentCardGrid",
+            "__metadata": {
+              "id": "5OgePCJYROlMteodBPWGkI",
+              "source": "sourcebit-source-contentful",
+              "modelName": "CuContentCardGrid",
+              "originalModelName": "CuContentCardGrid",
+              "projectId": "w8fc6tgspyjz",
+              "projectEnvironment": "master",
+              "tags": [],
+              "createdAt": "2024-05-03T23:06:38.196Z",
+              "updatedAt": "2024-12-12T22:21:03.582Z"
+            }
+          },
+          {
+            "internalName": "Demo CTA card",
+            "label": "Want a 1:1 demo instead?",
+            "description": "See how ClickUp boosts team productivity",
+            "media": {
+              "contentType": "image/png",
+              "url": "https://images.ctfassets.net/w8fc6tgspyjz/5cGKpnZ3c3Jxc8x5dUHU7L/a57eb7b8df812194820f24f9f5efabfd/list-view.png",
+              "fileName": "list-view.png",
+              "size": 84574,
+              "title": "list-view",
+              "dimensions": {
+                "width": 1536,
+                "height": 807
+              },
+              "__metadata": {
+                "id": "5cGKpnZ3c3Jxc8x5dUHU7L",
+                "source": "sourcebit-source-contentful",
+                "modelName": "Asset",
+                "projectId": "w8fc6tgspyjz",
+                "projectEnvironment": "master",
+                "tags": [],
+                "createdAt": "2024-03-21T01:20:39.124Z",
+                "updatedAt": "2024-12-12T22:21:03.394Z"
+              }
+            },
+            "ctaButton": {
+              "children": "Book a demo",
+              "buttonSize": "md",
+              "href": "https://clickup.com/on-demand-demo/demo-request",
+              "color": "purple",
+              "iconEndV3": "icon-v3-arrow-right",
+              "__modelName": "CuActionButtonLink",
+              "__metadata": {
+                "id": "1HlkPCnri4UrWt7nkd6XP5",
+                "source": "sourcebit-source-contentful",
+                "modelName": "CuActionButtonLink",
+                "originalModelName": "CuActionButtonLink",
+                "projectId": "w8fc6tgspyjz",
+                "projectEnvironment": "master",
+                "tags": [],
+                "createdAt": "2024-05-03T23:06:34.682Z",
+                "updatedAt": "2024-12-12T22:21:03.900Z"
+              }
+            },
+            "buttonSubtext": "No credit card required.",
+            "__modelName": "CuCalloutCard",
+            "__metadata": {
+              "id": "7McmZJYMiNsAVxDxZlFI1a",
+              "source": "sourcebit-source-contentful",
+              "modelName": "CuCalloutCard",
+              "originalModelName": "CuCalloutCard",
+              "projectId": "w8fc6tgspyjz",
+              "projectEnvironment": "master",
+              "tags": [],
+              "createdAt": "2024-05-03T23:06:39.539Z",
+              "updatedAt": "2024-12-12T22:21:03.883Z"
+            }
+          }
+        ],
+        "version": "v5",
+        "__modelName": "V3Layout",
+        "__metadata": {
+          "id": "6vYAq4QohwIUApmX3QQMMN",
+          "source": "sourcebit-source-contentful",
+          "modelName": "v3Layout",
+          "originalModelName": "v3Layout",
+          "projectId": "w8fc6tgspyjz",
+          "projectEnvironment": "master",
+          "tags": [],
+          "createdAt": "2024-05-03T23:06:38.939Z",
+          "updatedAt": "2025-11-26T18:33:08.406Z"
+        }
+      },
+      "isBannerLive": true,
+      "hasBannerEnabled": false
+    },
+    "__N_SSG": true
+  },
+  "page": "/[...slug]",
+  "query": {
+    "slug": [
+      "on-demand-demo"
+    ]
+  },
+  "buildId": "sYPK_kVLMzsjeutbZslNu",
+  "isFallback": false,
+  "gsp": true,
+  "scriptLoader": []
+}

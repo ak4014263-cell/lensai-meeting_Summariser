@@ -1,0 +1,682 @@
+{
+  "catalog": [
+    {
+      "id": "cat-1",
+      "index": 1,
+      "category": "AI & AUTOMATION",
+      "subtitle": "WORK SMARTER",
+      "features": [
+        {
+          "title": "Brain Platform",
+          "description": "Connect tasks, docs, and people to find answers instantly using AI.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Super Agents",
+          "description": "AI teammates that automate workflows and handle complex tasks autonomously.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Brain MAX",
+          "description": "Access premium AI models to search apps, reason deeply, and generate content across your workflow.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Premium AI models",
+          "description": "Chat with the latest AI models, right within ClickUp Brain.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "AI Notetaker",
+          "description": "Automatically transcribe meetings and generate summaries and action items.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Talk to Text",
+          "description": "Dictate tasks and notes instantly; let AI transcribe and format them.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "AI image generation",
+          "description": "Instantly create and edit high-quality visuals right in ClickUp with Brain.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Enterprise search",
+          "description": "Unified search across all connected apps, docs, and tasks in one place.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Automations",
+          "description": "Eliminate busywork by setting rules to automatically update task states.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "AI Fields",
+          "description": "Auto-filled summaries, real-time progress updates, and fully automated workflows.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "AI Cards",
+          "description": "AI can automatically summarize activity, analyze data, or provide progress updates.",
+          "icon": "",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "id": "cat-2",
+      "index": 2,
+      "category": "TASK & PROJECT MANAGEMENT",
+      "subtitle": "PLAN AND DELIVER",
+      "features": [
+        {
+          "title": "Tasks",
+          "description": "Track work with actionable items, assignees, and due dates in one place.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Sprints",
+          "description": "Manage agile workflows with dedicated time-boxed periods for focused work.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Goals",
+          "description": "Set high-level objectives and track progress automatically linked to tasks.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Milestones",
+          "description": "Mark critical points in a project timeline to track major achievements.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Task Relationships",
+          "description": "Link tasks to see what must be finished before the next step begins.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Multiple assignees",
+          "description": "Collaborate by assigning a single task to multiple people or teams.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Custom task statuses",
+          "description": "Create unique workflow stages that match your team's specific process.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Custom task types",
+          "description": "Define unique work items like \"Bugs\" or \"Leads\" to fit your specific workflow.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Task priorities",
+          "description": "Flag urgency with clear priority levels to keep the team focused on what matters.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Task templates",
+          "description": "Save time by reusing pre-made structures for common tasks and workflows.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Task checklists",
+          "description": "Break down complex tasks into simple, trackable steps to ensure quality.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Task tags",
+          "description": "Categorize and filter tasks across different lists for better organization.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "My Tasks",
+          "description": "Your personalized mission control for all assigned work & AI StandUps.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Home",
+          "description": "Your personalized start page with \"My Work,\" reminders, and recent activity.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Subtasks",
+          "description": "Break down tasks into smaller components.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Nested Subtasks",
+          "description": "Add up to 7 levels of hierarchy to your subtasks.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Sprint points",
+          "description": "Estimate the amount of effort to complete each item of work.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Task tray",
+          "description": "Minimize tasks to a tray for quick access without losing your place.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Epics",
+          "description": "Group related tasks into larger objectives.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Personal Priorities",
+          "description": "Let your team know what you're working on.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Subfolders [beta]",
+          "description": "Add new layers of Hierarchy to your Workspace to stay perfectly organized.",
+          "icon": "",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "id": "cat-3",
+      "index": 3,
+      "category": "VIEWS",
+      "subtitle": "SEE WORK YOUR WAY",
+      "features": [
+        {
+          "title": "Views",
+          "description": "Visualize work your way with 15+ customizable layouts like List, Board, or Gantt.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Kanban board",
+          "description": "Visualize workflows and move tasks through stages with a drag-and-drop board.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Gantt chart view",
+          "description": "Plan projects on a timeline to manage schedules and dependencies.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "List View",
+          "description": "Organize tasks into focused workflows.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Calendar",
+          "description": "View and schedule tasks on a daily, weekly, or monthly timeline.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Table view",
+          "description": "Manage tasks in a spreadsheet-style list for fast editing and organization.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Whiteboards",
+          "description": "Brainstorm and plan visually with a virtual canvas linked to your workflow.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Mind Maps",
+          "description": "Visualize project structures and hierarchies to plan complex workflows.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Canvas",
+          "description": "Build dynamic visual layouts to organize projects and data your way.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Map view",
+          "description": "Visualize tasks based on location data\u2014ideal for field teams and events.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Portfolios",
+          "description": "Get a high-level view of progress across multiple projects or lists.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Workload view",
+          "description": "Visualize your team's work and capacity over time.",
+          "icon": "",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "id": "cat-4",
+      "index": 4,
+      "category": "COLLABORATION",
+      "subtitle": "WORK TOGETHER",
+      "features": [
+        {
+          "title": "Chat",
+          "description": "Real-time messaging alongside work\u2014replace Slack within your project management.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Inbox",
+          "description": "A centralized hub for all notifications, updates, and tasks requiring attention.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Assign comments",
+          "description": "Turn feedback into action items by assigning comments directly to team members.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Clips",
+          "description": "Record screen and voice to share feedback or bug reports without a meeting.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Sync Ups",
+          "description": "Instant meetings, right where work happens.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Reminders",
+          "description": "Set personal alerts so you never miss a deadline or small to-do.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Email project management",
+          "description": "Create tasks and reply to comments directly from your email inbox.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Forms",
+          "description": "Collect data via public surveys that automatically create tasks in your workspace.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Collaboration detection",
+          "description": "See who is viewing or editing a task in real-time to avoid collisions.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Profiles",
+          "description": "A window into everyone's activity and personal details.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Permissions",
+          "description": "Control access to workspace content.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Custom roles",
+          "description": "Create specialized permission sets.",
+          "icon": "",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "id": "cat-5",
+      "index": 5,
+      "category": "KNOWLEDGE MANAGEMENT",
+      "subtitle": "CAPTURE AND CREATE",
+      "features": [
+        {
+          "title": "Docs",
+          "description": "Create collaborative documents, wikis, and SOPs directly linked to tasks.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Wikis (prev Knowledge management)",
+          "description": "Organize company wisdom and resources in a searchable, central wiki.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Notepad",
+          "description": "Jot down personal notes and ideas quickly, then convert them to tasks later.",
+          "icon": "",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "id": "cat-6",
+      "index": 6,
+      "category": "TIME & RESOURCE MANAGEMENT",
+      "subtitle": "PLAN AHEAD",
+      "features": [
+        {
+          "title": "Teams Hub",
+          "description": "Your team's priorities, activities, and so much more, all in one place.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Project time tracking",
+          "description": "Built-in timer to record billable hours and duration across tasks.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Time estimates",
+          "description": "Set expected durations for tasks to predict workload and delivery dates.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Timesheets",
+          "description": "View and approve logged hours for the team in a consolidated weekly view.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Recurring tasks",
+          "description": "Automate work that happens on a schedule\u2014daily, weekly, or monthly.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Dates and times",
+          "description": "Precise scheduling with start dates, due dates, and exact times.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Approvals",
+          "description": "Easily submit, review, and approve timesheets\u2014all in one place.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Planner",
+          "description": "Tasks and meetings converge in the intelligent Planner powered by ClickUp Brain.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Scheduling",
+          "description": "Automatically keep your tasks up to date while your project is in progress.",
+          "icon": "",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "id": "cat-7",
+      "index": 7,
+      "category": "REPORTING  & ANALYTICS",
+      "subtitle": "SEE THE BIG PICTURE",
+      "features": [
+        {
+          "title": "Dashboards",
+          "description": "Visual overview of project health, team progress, and key metrics.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Custom fields",
+          "description": "Add unique data types like dropdowns, currency, or text to any task.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "AI Cards",
+          "description": "AI can automatically summarize activity, analyze data, or provide progress updates.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Cards",
+          "description": "Create, resize, and place portable Cards anywhere in ClickUp.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "AI Usage Dashboard",
+          "description": "See how AI credits usage is trending in your Workspace.",
+          "icon": "",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "id": "cat-8",
+      "index": 8,
+      "category": "ENTERPRISE & SECURITY",
+      "subtitle": "SCALE WITH CONFIDENCE",
+      "features": [
+        {
+          "title": "Permissions",
+          "description": "Control access to workspace content.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Custom roles",
+          "description": "Create specialized permission sets.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Guests",
+          "description": "Invite external collaborators with customizable, controlled access.",
+          "icon": "",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "id": "cat-9",
+      "index": 9,
+      "category": "INTEGRATIONS & DEVELOPER TOOLS",
+      "subtitle": "CONNECT YOUR WORKFLOW",
+      "features": [
+        {
+          "title": "ClickUp MCP",
+          "description": "Access your ClickUp data in a simple and secure way.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "ClickUp API",
+          "description": "Build custom integrations and automate workflows with ClickUp's powerful REST API.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Webhooks",
+          "description": "Trigger real-time actions in external tools when events happen in ClickUp.",
+          "icon": "",
+          "badge": ""
+        },
+        {
+          "title": "Integrations",
+          "description": "Connect over 1,000+ tools to ClickUp to centralize your workflow.",
+          "icon": "",
+          "badge": ""
+        }
+      ]
+    },
+    {
+      "id": "cat-10",
+      "index": 10,
+      "category": "CUSTOMIZATION & PERSONALIZATION",
+      "subtitle": "MAKE CLICKUP YOURS",
+      "features": [
+        {
+          "title": "Custom color themes",
+          "description": "Personalize workspace appearance",
+          "icon": {
+            "iconV3": "icon-v3-text-highlight",
+            "iconColor": "purple",
+            "__modelName": "IconsV3",
+            "__metadata": {
+              "id": "4cuqYQnv2LrxGabCMNJNhC",
+              "source": "sourcebit-source-contentful",
+              "modelName": "IconsV3",
+              "originalModelName": "IconsV3",
+              "projectId": "w8fc6tgspyjz",
+              "projectEnvironment": "master",
+              "tags": [],
+              "createdAt": "2026-02-13T18:40:20.308Z",
+              "updatedAt": "2026-02-13T18:40:20.308Z"
+            }
+          },
+          "badge": ""
+        },
+        {
+          "title": "Dark mode",
+          "description": "Switch to low-light interface",
+          "icon": {
+            "iconV3": "icon-v3-drop",
+            "iconColor": "purple",
+            "__modelName": "IconsV3",
+            "__metadata": {
+              "id": "7o44Ooh4ydJbiag6aqFZNH",
+              "source": "sourcebit-source-contentful",
+              "modelName": "IconsV3",
+              "originalModelName": "IconsV3",
+              "projectId": "w8fc6tgspyjz",
+              "projectEnvironment": "master",
+              "tags": [],
+              "createdAt": "2026-02-13T18:40:20.324Z",
+              "updatedAt": "2026-02-13T18:40:20.324Z"
+            }
+          },
+          "badge": ""
+        },
+        {
+          "title": "Localization",
+          "description": "Use ClickUp in your preferred language",
+          "icon": {
+            "iconV3": "icon-v3-localisation",
+            "iconColor": "purple",
+            "__modelName": "IconsV3",
+            "__metadata": {
+              "id": "4BPMsmeiafegO52JxO7pS",
+              "source": "sourcebit-source-contentful",
+              "modelName": "IconsV3",
+              "originalModelName": "IconsV3",
+              "projectId": "w8fc6tgspyjz",
+              "projectEnvironment": "master",
+              "tags": [],
+              "createdAt": "2026-02-13T18:40:20.339Z",
+              "updatedAt": "2026-02-13T18:40:20.339Z"
+            }
+          },
+          "badge": ""
+        },
+        {
+          "title": "Custom notifications",
+          "description": "Personalize your alert preferences",
+          "icon": {
+            "iconV3": "icon-v3-emoji-add",
+            "iconColor": "purple",
+            "__modelName": "IconsV3",
+            "__metadata": {
+              "id": "7KekstutrpBL89rsHugxZG",
+              "source": "sourcebit-source-contentful",
+              "modelName": "IconsV3",
+              "originalModelName": "IconsV3",
+              "projectId": "w8fc6tgspyjz",
+              "projectEnvironment": "master",
+              "tags": [],
+              "createdAt": "2026-02-13T18:40:20.355Z",
+              "updatedAt": "2026-02-13T18:40:20.355Z"
+            }
+          },
+          "badge": ""
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is ClickUp and how is it different from other tools?",
+      "answer": "ClickUp is an all-in-one productivity platform that combines task management, docs, goals, and more in a single workspace, eliminating the need for multiple tools."
+    },
+    {
+      "question": "How can ClickUp help my team?",
+      "answer": "ClickUp increases productivity by centralizing work, eliminating app switching, automating routine tasks, and providing 15+ view types so everyone can visualize work in their preferred format."
+    },
+    {
+      "question": "What tools does ClickUp integrate with?",
+      "answer": "ClickUp connects with 1,000+ tools including Google Workspace, Microsoft Office, Slack, Zoom, and GitHub through native integrations and Zapier."
+    },
+    {
+      "question": "What are ClickUp's most popular features?",
+      "answer": "Users love ClickUp Brain (AI assistant), tasks, docs, whiteboards, dashboards, automations, chat, time tracking, and connected search which brings content from all workspace areas together."
+    },
+    {
+      "question": "Are ClickUp's advanced features too complicated for non-technical teams?",
+      "answer": "ClickUp offers multiple view options and interface modes so every team member works in the way that suits them best\u2014from simple List and Board views for basic task management to advanced Gantt Charts and Dashboards when you need them. You control the complexity level for each user with Custom Roles and Permissions, ensuring everyone sees only the features relevant to their work."
+    },
+    {
+      "question": "Can ClickUp replace multiple tools to reduce our tech stack costs?",
+      "answer": "ClickUp replaces your separate project management, docs, goals, chat, and time tracking tools with one unified platform, eliminating the need for multiple subscriptions. This consolidation reduces costs while keeping all your work connected and accessible in one place, so your team spends less time switching between apps and more time getting work done."
+    },
+    {
+      "question": "Do I have to build everything from scratch when starting with ClickUp?",
+      "answer": "ClickUp includes 1,000+ pre-built templates that let you start working in minutes, not hours. Browse templates by use case\u2014from project management to marketing campaigns\u2014select one that fits your needs, and customize it as your team grows. You can also use ClickUp AI to automatically generate tasks, docs, and workflows based on your goals. "
+    },
+    {
+      "question": "How easy is it to migrate from my current tool to ClickUp?",
+      "answer": "ClickUp offers one-click importers from Asana, Trello, Jira, and Monday.com, making migration simple and preserving your existing data."
+    }
+  ]
+}

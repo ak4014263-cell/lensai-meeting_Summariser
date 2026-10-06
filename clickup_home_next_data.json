@@ -1,0 +1,12 @@
+{
+  "props": {
+    "pageProps": {}
+  },
+  "page": "/",
+  "query": {},
+  "buildId": "sYPK_kVLMzsjeutbZslNu",
+  "nextExport": true,
+  "autoExport": true,
+  "isFallback": false,
+  "scriptLoader": []
+}

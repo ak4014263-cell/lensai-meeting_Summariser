@@ -1,0 +1,19 @@
+# Secrets — never commit
+.env
+client_secret.json
+*.client_secret.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Bot's signed-in browser profile (contains Google session cookies)
+.bot_profile/
+
+# Dev database & recordings
+sql_app.db
+storage/
+_verify/*.log
+_verify/*.webm
+_verify/*.wav

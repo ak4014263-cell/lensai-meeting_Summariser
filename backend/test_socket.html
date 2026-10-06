@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Socket.IO Test</title>
+    <script src="https://cdn.socket.io/4.7.4/socket.io.min.js"></script>
+</head>
+<body>
+    <h1>Socket.IO Connection Test</h1>
+    <div id="status">Connecting...</div>
+    <div id="log"></div>
+
+    <script>
+        const log = document.getElementById('log');
+        const status = document.getElementById('status');
+        
+        function addLog(msg) {
+            const p = document.createElement('p');
+            p.textContent = new Date().toISOString() + ': ' + msg;
+            log.appendChild(p);
+            console.log(msg);
+        }
+
+        const socket = io('http://127.0.0.1:8000', {
+            path: '/socket.io',
+            auth: {
+                user_id: 1
+            },
+            transports: ['websocket', 'polling']
+        });
+
+        socket.on('connect', () => {
+            status.textContent = 'Connected! Socket ID: ' + socket.id;
+            status.style.color = 'green';
+            addLog('Connected to server');
+            
+            // Try to join a test channel
+            socket.emit('join_channel', { channel_id: 'test123' });
+            addLog('Sent join_channel event');
+        });
+
+        socket.on('disconnect', (reason) => {
+            status.textContent = 'Disconnected: ' + reason;
+            status.style.color = 'red';
+            addLog('Disconnected: ' + reason);
+        });
+
+        socket.on('connect_error', (error) => {
+            status.textContent = 'Connection error: ' + error.message;
+            status.style.color = 'red';
+            addLog('Connection error: ' + error.message);
+        });
+
+        socket.onAny((eventName, ...args) => {
+            addLog('Event received: ' + eventName + ' ' + JSON.stringify(args));
+        });
+    </script>
+</body>
+</html>

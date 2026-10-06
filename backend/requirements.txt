@@ -1,0 +1,62 @@
+# Web / API
+fastapi==0.141.1
+uvicorn[standard]==0.52.4
+python-multipart==0.0.32
+pydantic==2.13.5
+pydantic-settings==2.15.0
+python-dotenv==1.2.3
+
+# Database
+SQLAlchemy==2.0.52
+
+# Auth
+python-jose[cryptography]==3.5.0
+passlib[bcrypt]==1.7.4
+bcrypt==3.2.2
+
+# Meeting bot (browser automation)
+playwright==1.62.0
+
+# Speech to text. `av` lets faster-whisper decode webm/opus without a system
+# ffmpeg binary on PATH.
+faster-whisper==1.2.1
+av==18.1.0
+
+# Hugging Face for best transcription quality
+transformers==4.45.0
+torch==2.5.1
+torchaudio==2.5.1
+librosa==0.10.2
+accelerate==0.34.2
+soundfile==0.12.1
+
+# Speaker diarization for accurate attribution
+pyannote.audio==3.3.1
+speechbrain==1.0.1
+
+# Advanced audio processing
+noisereduce==3.0.2
+pydub==0.25.1
+
+# LLM
+ollama==0.6.2
+
+# HTTP client for the Meeting BaaS hosted-bot API and the OpenAI STT backend.
+requests>=2.32
+
+# Official Google Meet REST API + OAuth (optional but installed).
+# Only needed for the "Connect Google account" integration.
+google-api-python-client==2.200.0
+google-auth-oauthlib==1.4.1
+google-auth-httplib2==0.4.2
+reportlab>=4.0.0
+
+# MongoDB for chat and caching
+pymongo==4.8.0
+motor==3.5.1
+aiofiles>=24.0.0
+python-socketio[asyncio_client]>=5.11.0
+
+# Performance monitoring
+psutil==6.1.0
+prometheus-client==0.21.0
